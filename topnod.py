@@ -13,8 +13,8 @@ import glob, os
 # KONFIGURASI
 # ============================================================
 
-EMAIL         = "lhuciverjobs@gmail.com"
-PASSWORD_MD5  = "e5bb2b533e6dd6b4a4eb9ebb05b1681e"
+EMAIL         = "@gmail.com"
+PASSWORD_MD5  = ""
 BASE          = "https://api.vsphone.com/vsphone/api"
 TARGET_PKG    = "com.ant.dt.topnod"
 
